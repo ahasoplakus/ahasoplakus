@@ -7,11 +7,9 @@
 
 ## ☁ GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ahasoplakus&show_icons=true&theme=radical)   ![](https://github-readme-streak-stats.herokuapp.com/?user=ahasoplakus&theme=dracula&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=ahasoplakus&show_icons=true&theme=dracula)   ![](https://github-readme-streak-stats.herokuapp.com/?user=ahasoplakus&theme=dracula&hide_border=false)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukalpo-saha-186329b1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/saha_sukalpo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anti_coke_ganpati) 
 
 [![](https://visitcount.itsvg.in/api?id=ahasoplakus&icon=0&color=1)](https://visitcount.itsvg.in)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ahasoplakus&theme=github-dark)](https://git.io/streak-stats)
