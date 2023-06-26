@@ -1,6 +1,6 @@
 # Hi there 👋 I am Sukalpo
 
-🌱 I'm a Data Scientist and R Developer.
+🌱 I'm a Data Scientist and R and Shiny Developer.
 
 ## 💻 Tech Stack
 
