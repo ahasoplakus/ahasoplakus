@@ -1,6 +1,6 @@
 # Hi there 👋 I am Sukalpo
 
-🌱 I'm a Data Scientist and R and Shiny Developer.
+🌱 I'm an R Programmer and Shiny Developer with 6.5+ years of working experience the <b>Pharmaceutical</b> Industry.
 
 ## 💻 Tech Stack
 
